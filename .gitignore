@@ -1,0 +1,17 @@
+
+env/
+__pycache__/
+*.egg-info/
+*.spec
+*.log
+*.db
+*.sqlite
+*.pypackage
+*.egg
+*.mo
+*.pot
+.env
+.env.example
+local_settings.py
+instance/
+migrations/
